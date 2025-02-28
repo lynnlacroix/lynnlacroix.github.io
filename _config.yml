@@ -136,7 +136,10 @@ author:
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"    
+      # url: "https://instagram.com/"
+    - label: "Bluesky"
+      icon: "fa-brands fa-square-bluesky"
+      url: "https://bsky.app/profile/lynnlacroix.bsky.social"
 
 # Site Footer
 footer:
