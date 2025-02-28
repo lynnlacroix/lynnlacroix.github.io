@@ -21,7 +21,7 @@ title                    : "Lynn LaCroix"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Lynn LaCroix"
-description              : "Ph.D candidate in Critical Disability Studies"
+description              : "Ph.D student in Critical Disability Studies"
 url                      : https://lynnlacroix.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lynnlacroix.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Lynn LaCroix"
   avatar           : "/files/images/bio-photo.jpg"
-  bio              : "PhD candidate <br> Critical Disability Studies <br> York University."
+  bio              : "PhD student <br> Critical Disability Studies <br> York University."
   location         : "Tkaronto"
   email            :
   links:
