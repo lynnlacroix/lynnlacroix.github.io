@@ -2,7 +2,8 @@
 main:
   - title: "Research"
     url: https://lynnlacroix.github.io/files/Community-Safety-Strategies-Not-In-School-Policing.pdf
-  # - title: "CV"
+  - title: "Research Test"
+    url: /research/
   #  url: https://lynnlacroix.github.io/files/lynn-lacroix-CV-2025-02-28.pdf
   # - title: "Sample Posts"
   #   url: /year-archive/
