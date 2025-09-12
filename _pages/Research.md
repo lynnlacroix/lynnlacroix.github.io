@@ -10,5 +10,5 @@ title: "Research"
 
 ## Community Resources
 
-- Lynn LaCroix. 2025 "Bill Mill: Harm Reduction, Drug Use, Homelessness". ([Colour](https://lynnlacroix.github.io/files/Bill-Mill-Poster.pdf))
-- Lynn LaCroix. 2025. "Provinical Ontario Bill 6". Ontario, Canada: Safer Munipalities Act. ([Colour](https://lynnlacroix.github.io/files/Bill-6-Trifold-with-Cover-30-05-2025.pdf), [B&W](https://lynnlacroix.github.io/files/Bill-6-Trifold-with-Cover-B-W-30-05-2025.pdf))
+- Lynn LaCroix. 2025 "Bill Mill: Harm Reduction, Drug Use, Homelessness". ([Colour Poster](https://lynnlacroix.github.io/files/Bill-Mill-Poster.pdf))
+- Lynn LaCroix. 2025. "Provinical Ontario Bill 6". ([Colour Explainer](https://lynnlacroix.github.io/files/Bill-6-Trifold-with-Cover-30-05-2025.pdf), [B&W Explainer](https://lynnlacroix.github.io/files/Bill-6-Trifold-with-Cover-B-W-30-05-2025.pdf))
