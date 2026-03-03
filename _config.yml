@@ -139,7 +139,7 @@ author:
       # url: "https://instagram.com/"
     - label: "Bluesky"
       icon: "fa-brands fa-square-bluesky"
-      url: "https://bsky.app/profile/lynnlacroix.bsky.social"
+      #url: "https://bsky.app/profile/lynnlacroix.bsky.social"
 
 # Site Footer
 footer:
