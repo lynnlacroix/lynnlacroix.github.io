@@ -1,5 +1,5 @@
 ---
-permalink: /Phoenix-Sings/
+permalink: /phoenix-sings/
 title: "Phoenix Sings"
 ---
 
